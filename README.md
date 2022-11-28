@@ -1,1 +1,1 @@
-# The following repository contains my personal solutions to problems which I solved
+# The following repository contains my personal solutions to the advent of code challenge
